@@ -1,0 +1,2 @@
+The fashion_critic project is made using fashion_MNIST dataset and the updated version is still under process.
+Will be uploaded soon.
